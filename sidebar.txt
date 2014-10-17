@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yif:home|Door43 (yif)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yif|d43-yif repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yif/archive/master.zip|d43-yif.zip]]
+
+**Recent Changes**
+{{changes>ns = yif}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yif|Ethnologue data]]
+
